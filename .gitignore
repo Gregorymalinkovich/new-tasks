@@ -7,3 +7,9 @@
 *.v2
 /Task1/Task1/obj
 /.vs
+/Task2/.vs/Task2/v17
+/Task2/Task2/obj
+/Task3/.vs/Task3/v17
+/Task3/Task3/obj
+/Task1/.vs/ProjectEvaluation
+/Task1/Task1/Program.cs
