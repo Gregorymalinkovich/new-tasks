@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Task1
 {
@@ -24,7 +24,7 @@ namespace Task1
                 }
                 else
                 {
-                    Console.WriteLine("Only 13 digits allowed.");
+
                 }
             }
         }
@@ -70,5 +70,4 @@ namespace Task1
             return PhoneNumber.CompareTo(other.PhoneNumber);
         }
     }
-}
-}
+}   
