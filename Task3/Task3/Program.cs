@@ -1,8 +1,4 @@
-﻿using New_Project;
 using System;
-using System.Collections;
-using System.Collections.Generic;
-
 namespace New_Project
 {
     public class Program
