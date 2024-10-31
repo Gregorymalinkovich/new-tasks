@@ -13,7 +13,7 @@
         public override void DisplayInformation()
         {
             base.DisplayInformation();
-            Console.WriteLine($"Gift: {Gift}");
+            
         }
     }
 }
