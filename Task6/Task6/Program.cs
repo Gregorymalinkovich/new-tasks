@@ -1,5 +1,5 @@
 ﻿using New_Project;
-
+using System;
 namespace Task6
 {
     public class Program

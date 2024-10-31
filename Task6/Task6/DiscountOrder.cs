@@ -25,7 +25,7 @@ namespace New_Project
         public override void DisplayInformation()
         {
             base.DisplayInformation();
-            Console.WriteLine($"Discount: {Discount}%");
+            
         }
     }
 }
